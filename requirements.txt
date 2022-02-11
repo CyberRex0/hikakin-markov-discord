@@ -1,0 +1,4 @@
+git+https://github.com/Pycord-Development/pycord.git
+mecab-python3
+markovify
+google-api-python-client
